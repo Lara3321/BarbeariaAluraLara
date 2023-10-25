@@ -1,3 +1,4 @@
+
 body{
     font-size: 16px; }
 
@@ -7,6 +8,11 @@ body{
 
 .beneficio{text-align: center;}
 
-.imagem-beneficio{width: 100%;}
+.imagem-beneficios{width: 50%;}
 
 .imagem{width: 100%;}
+ 
+.titulo{padding: 20px;}
+
+.lista{display: inline-block;
+vertical-align: top;}
